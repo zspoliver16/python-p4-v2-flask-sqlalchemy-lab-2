@@ -94,7 +94,7 @@ Run `server/seed.py` to add sample customers, items, and reviews to the
 database.
 
 ```
-$ python/seed.py
+$ python seed.py
 ```
 
 Then use either Flask shell or SQLite Viewer to confirm the 3 tables are
